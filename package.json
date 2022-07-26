@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.9",
+    "sqlite3": "^5.0.9"
+  }
+}
